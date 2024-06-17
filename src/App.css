@@ -119,6 +119,7 @@
   input{
     height: 40px;
     width: 40px;
+    accent-color: #008080;
   }
   input:focus + label{
     text-decoration: underline;
@@ -136,6 +137,7 @@
   }
   svg:hover, svg:focus{
     color: red;
+    border: white;
   }
 }
 
